@@ -1,3 +1,5 @@
 .venv/
 *.log
 template_manager.log
+__pycache__/
+logs/
